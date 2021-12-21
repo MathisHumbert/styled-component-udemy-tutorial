@@ -6,7 +6,7 @@ const ComplexTitle = ({ title }) => {
     <Wrapper>
       <h1>{title}</h1>
       <div className="underline"></div>
-      <div className="box"></div>
+      {/* <div className="box"></div> */}
     </Wrapper>
   );
 };
